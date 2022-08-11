@@ -1,1 +1,3 @@
 # ssd_lab_activity_2
+
+In question1, the actual output is printed on a new line at last after the stmt "Middle line is " quote...
